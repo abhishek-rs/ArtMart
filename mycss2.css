@@ -1,0 +1,155 @@
+body {
+	background-color: #009688;
+}
+
+.search-navbar{
+	float:right;
+}
+
+.jumbotron{
+	background-color: #424242;
+	color : white;
+	-webkit-box-shadow: 4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+box-shadow:         4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+	font-family: 'Satisfy', cursive;
+
+}
+
+.jumbotron a{
+	font-size: 15pt;
+}
+
+.navibar{
+	font-family: 'Lobster Two', cursive; 
+	font-size: 20pt;
+}
+
+.aishu{
+	
+	font-weight: lighter;
+	padding-right: 5px;
+}
+
+.about-links{
+	text-align: center;
+	margin: auto;
+	left: 0;
+	right: 0;
+	position:relative;
+	width:100%;
+	font-family: 'Pacifico', cursive;
+}
+
+.about-links .test{
+	margin: 0 auto;
+	position: relative;
+	width:100%;
+}
+
+.cards{
+	background-color: white;
+	padding:15px;
+	border-radius: 5px;
+	margin: 18px;
+	width:30%;
+	position: relative;
+	-webkit-box-shadow: 4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+box-shadow:         4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+
+}
+
+.cards2{
+
+	background-color: white;
+	padding:15px;
+	border-radius: 5px;
+	margin: 25px;
+	-webkit-box-shadow: 4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+box-shadow:         4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+
+	width:45%;
+	position: rel
+}
+
+.glyph{
+	font-size: 20pt;
+}
+
+#artist-card img{
+	display: inline-block;
+	border-radius: 5px;
+	width: 50%;
+	
+	position: relative;
+}
+
+#artist-deets{
+	display: inline-block;
+	width:40%;
+	font-size: 13pt;
+	margin-left: 15px;
+}
+
+.single-artist{
+	background-color: #424242;
+	position: relative;
+	color : white;
+	-webkit-box-shadow: 4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+box-shadow:         4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+	font-family: 'Satisfy', cursive;
+border-radius: 10px;
+padding:20px;
+height: auto;
+}
+
+.art-thumb{
+	background-color: white;
+	
+	position: relative;
+	color : white;
+	-webkit-box-shadow: 4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+box-shadow:         4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+	font-family: 'Satisfy', cursive;
+border-radius: 10px;
+padding:20px;
+height: 280px;
+text-align: center;
+}
+
+.page-header{
+	text-align: center;
+	width:100%;
+	font-family: 'Satisfy', cursive;
+	font-size: 25pt;
+}
+
+.sales-table{
+	right:0;
+	margin:auto;
+	width:50%;
+	display:inline-block;
+	position: relative;
+}
+
+#des-search{
+	display:none;
+}
+
+#filterless-search{
+	display: none; 
+}
+
+.search-results{
+	padding: 15px;
+	background-color: white;
+	-webkit-box-shadow: 4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+box-shadow:         4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+	font-family: 'Satisfy', cursive;
+border-radius: 10px;
+}
